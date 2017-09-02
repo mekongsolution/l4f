@@ -1,4 +1,4 @@
-package m.k.l4f.eng.logic;
+package m.k.s.l4f.eng.logic;
 
 /**
  * An interface to abstract all Sakai related API calls in a central method that can be injected into our app.

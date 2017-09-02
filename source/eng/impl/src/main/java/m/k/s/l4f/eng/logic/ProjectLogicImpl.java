@@ -1,11 +1,11 @@
-package m.k.l4f.eng.logic;
+package m.k.s.l4f.eng.logic;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import org.apache.log4j.Logger;
 
-import m.k.l4f.eng.model.Item;
+import m.k.s.l4f.eng.model.Item;
 
 /**
  * Implementation of {@link ProjectLogic}

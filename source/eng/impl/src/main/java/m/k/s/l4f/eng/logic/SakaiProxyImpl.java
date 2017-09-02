@@ -1,4 +1,4 @@
-package m.k.l4f.eng.logic;
+package m.k.s.l4f.eng.logic;
 
 import lombok.Getter;
 import lombok.Setter;

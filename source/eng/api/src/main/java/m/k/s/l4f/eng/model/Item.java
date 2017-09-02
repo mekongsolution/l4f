@@ -1,4 +1,4 @@
-package m.k.l4f.eng.model;
+package m.k.s.l4f.eng.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

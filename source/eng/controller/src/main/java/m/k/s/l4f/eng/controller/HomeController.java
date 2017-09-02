@@ -1,4 +1,4 @@
-package m.k.l4f.eng.controller;
+package m.k.s.l4f.eng.controller;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
@@ -12,7 +12,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 
 import lombok.Getter;
 import lombok.Setter;
-import m.k.l4f.eng.logic.SakaiProxy;
+import m.k.s.l4f.eng.logic.SakaiProxy;
 
 /**
  * Handles requests for the application home page.

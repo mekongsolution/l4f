@@ -1,8 +1,8 @@
-package m.k.l4f.eng.logic;
+package m.k.s.l4f.eng.logic;
 
 import java.util.List;
 
-import m.k.l4f.eng.model.Item;
+import m.k.s.l4f.eng.model.Item;
 
 /**
  * An example logic interface

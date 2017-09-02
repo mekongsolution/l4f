@@ -47,5 +47,5 @@
         </property>
     </bean>
 
-	<context:component-scan base-package="m.k.l4f.eng" />
+	<context:component-scan base-package="m.k.s.l4f.eng" />
 </beans>

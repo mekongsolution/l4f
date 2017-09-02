@@ -4,8 +4,8 @@
 <beans>
 
 	<!--  SakaiProxy -->
- 	<bean id="m.k.l4f.eng.logic.SakaiProxy"
-    	class="m.k.l4f.eng.logic.SakaiProxyImpl"
+ 	<bean id="m.k.s.l4f.eng.logic.SakaiProxy"
+    	class="m.k.s.l4f.eng.logic.SakaiProxyImpl"
         init-method="init">
         <!-- API injection -->
         <property name="securityService" ref="org.sakaiproject.authz.api.SecurityService" />
@@ -19,8 +19,8 @@
 	</bean>
 	
 	<!-- ProjectLogic -->
-	<bean id="m.k.l4f.eng.logic.ProjectLogic"
-    	class="m.k.l4f.eng.logic.ProjectLogicImpl"
+	<bean id="m.k.s.l4f.eng.logic.ProjectLogic"
+    	class="m.k.s.l4f.eng.logic.ProjectLogicImpl"
     	init-method="init" />
 	
 

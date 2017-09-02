@@ -1,4 +1,4 @@
-package m.k.l4f.eng.common;
+package m.k.s.l4f.eng.common;
 
 import java.io.File;
 import java.io.IOException;
@@ -11,7 +11,7 @@ import org.apache.log4j.Logger;
 import org.w3c.dom.Document;
 import org.xml.sax.SAXException;
 
-import m.k.l4f.eng.common.AppUtility;
+import m.k.s.l4f.eng.common.AppUtility;
 
 /**
  * An example Utility.

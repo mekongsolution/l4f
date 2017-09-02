@@ -34,9 +34,9 @@
       </property>
     </bean>
 	
-<!--     <context:component-scan base-package="m.k.l4f.eng" /> -->
+<!--     <context:component-scan base-package="m.k.s.l4f.eng" /> -->
 	<bean name="/home"
-		class="m.k.l4f.eng.controller.HomeController">
-		<property name="sakaiProxy" ref="m.k.l4f.eng.logic.SakaiProxy"/>
+		class="m.k.s.l4f.eng.controller.HomeController">
+		<property name="sakaiProxy" ref="m.k.s.l4f.eng.logic.SakaiProxy"/>
 	</bean>
 </beans>

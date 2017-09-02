@@ -1,2 +1,2 @@
 # l4f
-Learn for Future applicatoin
+Learn for Future application.
